@@ -1,0 +1,49 @@
+/* Google font  */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+.font-robot {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* heading  */
+
+.fs-80 {
+    font-size: 5rem;
+}
+
+.font-bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.h-color {
+    color: #FA804C;
+}
+
+.h-color-2 {
+    color: #363958;
+}
+
+.btn-custom {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+
+/* main section  */
+
+.bg-gray {
+    background-color: #F1F1F1;
+}
+
+.dollar-color {
+    color: #FA804C
+}
+
+
+/* for heading  */
+
+@media only screen and (max-width:350px) {
+    .fs-80 {
+        font-size: 50px;
+    }
+}
